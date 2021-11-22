@@ -64,7 +64,7 @@ DEVICE="tulip"
 
 # The defconfig which should be used. Get it from config.gz from
 # your device or check source
-DEFCONFIG=kali-newcam_defconfig
+DEFCONFIG=kali-oldcam_defconfig
 
 # Build modules. 0 = NO | 1 = YES
 MODULES=1
